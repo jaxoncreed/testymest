@@ -1,0 +1,12 @@
+{
+    "repoName": "testymest",
+    "repoDescription": "asdfsfsdfs",
+    "framework": "sails",
+    "database": "mongo",
+    "schemas": [
+        {
+            "name": "Update-Me",
+            "attributes": []
+        }
+    ]
+}
